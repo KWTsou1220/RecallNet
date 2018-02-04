@@ -1,3 +1,6 @@
+*.pyc
 Models
 Prediction*
 *.ipynb_checkpoints
+.
+..
