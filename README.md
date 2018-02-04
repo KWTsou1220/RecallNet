@@ -18,12 +18,12 @@ In our experients, we consider only two times of listening.
 
 ## Result
 - An example of mixed signal and demixed signals by DNN, LSTM, NTM and RecallNet
-|<img src="Others/mix.png">|<img src="Others/clean.png">|
-|:------------------------:|:--------------------------:| 
-|<img src="Others/Recall.png">|<img src="Others/NTM.png">|
-|:------------------------:|:--------------------------:| 
-|<img src="Others/LSTM.png">|<img src="Others/DNN.png">|
-|:------------------------:|:--------------------------:| 
+<img src="Others/mix.png" width="50%">|<img src="Others/clean.png" width="50%">
+:------------------------:|:--------------------------: 
+<img src="Others/Recall.png" width="50%">|<img src="Others/NTM.png" width="50%">
+:------------------------:|:--------------------------:
+<img src="Others/LSTM.png" width="50%">|<img src="Others/DNN.png" width="50%">
+:------------------------:|:--------------------------: 
 
 - STOI measure on bus and caf noises
 
