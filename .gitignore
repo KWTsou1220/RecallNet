@@ -4,3 +4,4 @@ Prediction*
 *.ipynb_checkpoints
 .
 ..
+.gitignore
