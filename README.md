@@ -23,10 +23,8 @@ In our experients, we consider only two times of listening.
 |:------------------------------------:|:--------------------------------------:|
 |Mix signal                            |Clean signal                            |
 |<img src="Others/recall.png" width="50%">|<img src="Others/NTM.png" width="50%">|
-|:---------------------------------------:|:------------------------------------:|
 |Demixed signal (RecallNet)               |Demixed signal (NTM)                  |
 |<img src="Others/LSTM.png" width="50%">|<img src="Others/DNN.png" width="50%">|
-|:------------------------:|:--------------------------:|
 |Demixed signal (LSTM)     |Demixed signal (DNN)        |
 
 - STOI measure on bus and caf noises
