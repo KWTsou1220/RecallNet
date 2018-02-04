@@ -4,6 +4,7 @@ Prosposed RecallNet allows to listen to the noisy speech for multiple times and 
 The stored information will be attended over during the last time of listening and help to enhance the quality of speech.
 In our experients, we consider only two times of listening. 
 
+<img src="Others/RecallNet.png" width="50%">
 
 ## Setting
 - Hardware:
