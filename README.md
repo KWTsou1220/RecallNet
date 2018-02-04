@@ -15,3 +15,19 @@ In our experients, we consider only two times of listening.
 - Dataset
 	- Wall Street Journal Corpus
 	- Noises are collected from [freeSFX](http://www.freesfx.co.uk/soundeffects/) and [AudioMicro](http://www.audiomicro.com/free-sound-effects)
+
+## Result
+- An example of mixed signal and demixed signals by DNN, LSTM, NTM and RecallNet
+|<img src="Others/mix.png">|<img src="Others/clean.png">|
+|:------------------------:|:--------------------------:| 
+|<img src="Others/Recall.png">|<img src="Others/NTM.png">|
+|:------------------------:|:--------------------------:| 
+|<img src="Others/LSTM.png">|<img src="Others/DNN.png">|
+|:------------------------:|:--------------------------:| 
+
+- STOI measure on bus and caf noises
+
+|<img src="Others/stoi1.png">|<img src="Others/stoi2.png">|
+|:------------------------:|:--------------------------:|
+|Seen speakers             |Unseen speakers             |
+
